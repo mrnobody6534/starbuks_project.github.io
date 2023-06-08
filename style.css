@@ -1,0 +1,164 @@
+/* logo image */
+.demo1 > img{
+    height: 40px;
+    width: 40px;
+    margin-left: 300%;
+  
+}
+/* search logo imgage  */
+.demo2 > img{
+    height: 40px;
+    width: 40px;
+    margin-left: 1000px;
+    
+}
+/* account symbol image  */
+.demo3 > img{
+    height: 40px;
+    width: 40px; 
+    margin-left: 70px;
+    margin-right: 100px;
+}
+/* making the div tag in inline-block */
+ div{
+    display: inline-block;
+    margin-top: 1%;
+}
+#id1{
+    background-color: #00754a;
+    display: block;
+    height: 70px;
+    width: 100%;
+    position: absolute;
+}
+h4{
+    color: whitesmoke;
+    position: absolute;
+    display: inline;
+    margin-left: 100px;
+    /* margin-top: 50px; */
+    width: 350px;
+font-family: 'Nanum Gothic', sans-serif;
+font-size: 20px;
+}
+h3{
+    margin-left: 1100px;
+    display: inline;
+    position: absolute;
+    /* height: 10px; */
+    width: 65px;
+    color: whitesmoke;
+    font-family: 'Nanum Gothic', sans-serif;
+    border: 1px solid whitesmoke;
+    padding: 1%;
+}
+#id2 {
+    background-color: aliceblue;
+    height: 50px;
+    width: 100%;
+    margin-top: 90px;
+    position: relative;
+    padding-top: 2%;
+}
+#id2 > h3{
+    color: #00754a;
+    border: 0;
+    height: 5px;
+    width: 100%;
+    margin-left: 6.5%;
+    position: relative;
+    padding-top: 0%;
+    font-size: 25px;
+    /* font-family: 'Abril Fatface', cursive; */
+font-family: 'Nanum Gothic', sans-serif;
+}
+#id11{
+    background-color:  rgb(200, 216, 230);
+    height: 300px;
+    width: 300px;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 20px;
+    border-radius: 5%;
+}
+#id12{
+    background-color: rgb(200, 216, 230);
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5%;
+}
+#id13{
+    background-color:  rgb(200, 216, 230);
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+    border-radius: 5%;
+}
+#id3{
+ 
+    height: 50px;
+    width: 100%;
+    margin-top: 350px;
+}
+#id3 > span{
+    margin-left: 285px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+#id4{
+    background-color: #00754a;
+    height: 400px;
+    width: 100%;
+    padding-top: 20px;
+}
+#id4 > span{
+     color: whitesmoke;
+     margin-left: 220px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 20px;
+}
+#img-1{
+    height: 70px;
+    width: 70px;
+    margin-right: 575px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+/* facebook */
+#img-2{
+    height: 40px;
+    width: 40px;
+    margin-right: 0px;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+/* instagram */
+#img-3{
+    height: 40px;
+    width: 40px;
+    margin-right: 0px;
+    margin-left:  0px;
+    margin-top: 0px;
+}
+/* twitter */
+#img-4{
+    height: 40px;
+    width: 40px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+/* appstore */
+#img-5{
+    height: 100px;
+    width: 150px;
+    margin-right: 0px;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+hr{
+    padding-top: 200px;
+    padding: 1%;
+}
